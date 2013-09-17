@@ -1,12 +1,16 @@
-unicorn-wireframe
-=================
+Reveal.js test project
+======================
 
-A wireframe for a unicorn app with rake setup to handle slim, coffee and sass, through compass.
+From the project https://github.com/hakimel/reveal.js
 
+Run
+---
 
-New Project from this one
--------------------------
+Call
 
-Use the next code to clone only the las version of the repo without remote tracking.
+    $ unicorn
 
-    git clone --depth 1 -b master git@github.com:rcrmn/unicorn-wireframe.git NewProjectName
+And visit
+
+    localhost:8080
+
